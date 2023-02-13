@@ -1,0 +1,18 @@
+[
+
+    {"nombre": "Enzo Fernandez", "estatura":1.90, "genero":"Hombre", "imagen": "/enzo.jpeg"},
+    {"nombre": "Kepa Arrizabalaga", "estatura":1.95, "genero":"Hombre", "imagen": "/kepa.jpeg"},
+    {"nombre": "Reece James", "estatura":2.00, "genero":"Hombre", "imagen": "/reece.jpeg"},
+    {"nombre": "mykhaylo mudryk", "estatura":1.96, "genero":"Hombre", "imagen": "/mudryk.jpeg"},
+    {"nombre": "Joao Felix", "estatura":1.89, "genero":"Hombre", "imagen": "/joao.jpeg"},
+    {"nombre": "Marc Cucurella", "estatura":2.1, "genero":"Hombre", "imagen": "/marck.jpeg"},
+    {"nombre": "benoit badiashile", "estatura":1.86, "genero":"Hombre", "imagen": "/benoit.jpeg"},
+    {"nombre": "kai havertz", "estatura":1.80, "genero":"Hombre", "imagen": "/kai.jpeg"},
+    {"nombre": "Mateo kovacic", "estatura":1.90, "genero":"Hombre", "imagen": "/mateo.jpeg"},
+    {"nombre": "Thuago Silva", "estatura":1.99, "genero":"Hombre", "imagen": "/thiago.jpeg"},
+    {"nombre": "Noni Madueke", "estatura":1.96, "genero":"Hombre", "imagen": "/noni.jpeg"}
+
+
+
+
+]
